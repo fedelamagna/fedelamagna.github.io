@@ -1,13 +1,27 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Doctor of Philosophy (PhD) in Physics
+  uni: Instituto Balseiro
+  year: 2017 &mdash; 2022
+  #awards:
+  #  - award: Summa Cumme Laude graduate
+  summary: Doctoral Thesis: "Composite Higgs Models for Flavor Physics and B-meson anomalies" &mdash (High Energy Physics, Phenomenology) 
+  
+  - degree: Academic Stay during PhD
+  uni: ICAS - Universidad de San Martín
+  year: 2019 &mdash; 2020
+  #awards:
+  #  - award: Summa Cumme Laude graduate
+  summary: Research Fields: Applied Machine Learning, High Energy Physics
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+# Degree
+- degree: Physics (Licentiate Degree)
+  uni: Universidad de Buenos Aires
+  year: 2011 &mdash; 2016
+  #awards:
+  #  - award: Summa Cumme Laude graduate
+  summary: Graduate Thesis: "A Functional Renormalization Method for Wave Propagation in Random Media" &mdash (Statistical Mechanics, Quantum Field Theory) 
+
+- degree: High School Diploma (Electromechanical Technician)
+  uni: La Salle Florida
+  year: 2010
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards
