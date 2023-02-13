@@ -1,12 +1,30 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Programming Languages
+  description: '<ul class="resume-item-list">
+  <li>Python (Advanced)</li>
+  <li>C/C++ (Intermediate)</li>
+  <li>SQL (Beginner)</li>
+  </ul>'
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Other software and tools
+  description: '<ul class="resume-item-list">
+  <li>LaTeX</li>
+  <li>Wolfram Mathematica</li>
+  </ul>'
+  
+- skill: Languages
+  description: '<ul class="resume-item-list">
+  <li>Spanish (Native)</li>
+  <li>English (Proficient)</li>
+  <li>Italian (Elementary)</li>
+  </ul>'
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Areas of Interest
+  description: '<ul class="resume-item-list">
+  <li>Data Science</li>
+  <li>Machine Learning, Natural Language Processing, Geovisualization, Image Recognition</li>
+  <li>Probabilistic Modelling</li>
+  </ul>'
