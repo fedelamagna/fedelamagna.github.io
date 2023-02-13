@@ -2,7 +2,7 @@
 - company: Universidad de Buenos Aires, Physics Department
   position: Undergraduate Teaching Assistant 
   duration: 2016
-  summary: Worked as undergraduate teaching assistant while working on my Graduate Thesis, for the duration of two semesters. The subjects were&#58; <ul class="resume-item-list"><li>Quantum Mechanics</li><li>Statistical Mechanics</li></ul>
+  summary: Worked as undergraduate teaching assistant while working on my graduate thesis, for the duration of two semesters. The subjects were&#58; <ul class="resume-item-list"><li>Quantum Mechanics</li><li>Statistical Mechanics</li></ul>
 
 - company: <a target="_blank" href="https://iarxiv.org/about">iarxiv.org</a> (Intelligent Arxiv)
   position: Data Scientist - Machine Learning Engineer
@@ -37,7 +37,13 @@
   <a target="_blank" href="images/munismap.html"><img class="hoverer" src="images/maps_munis.jpg" width="95%"/></a>
   ' 
   #
-  
+- company: UNSAM &mdash; Studying population tendencies for Government Agencies
+  position: Data Scientist - Machine Learning Engineer
+  duration: 2021 
+  summary: As a private contractor for provincial government, we worked on modelling populations and their buying tendencies within the Buenos Aires province. Work involved Bayesian models along with choropleth map visualizations.
+  imblock: '<div><img src="images/hexBA.png" width="35%"/> 
+  <img src="images/fertmap.png" width="55%"/></div>
+  ' 
   
 # Director of Digital Strategy
 #- company: United Nations Human Rights Council
