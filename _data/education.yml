@@ -1,27 +1,24 @@
 - degree: Doctor of Philosophy (PhD) in Physics
   uni: Instituto Balseiro
   year: 2017 &mdash; 2022
-  #awards:
-  #  - award: Summa Cumme Laude graduate
-  summary: Doctoral Thesis: "Composite Higgs Models for Flavor Physics and B-meson anomalies" &mdash (High Energy Physics, Phenomenology) 
+  award: .
+  summary: Doctoral Thesis: "Composite Higgs Models for Flavor Physics and B-meson anomalies" &mdash; (High Energy Physics, Phenomenology) 
   
   - degree: Academic Stay during PhD
-  uni: ICAS - Universidad de San Martín
+  uni: ICAS - Universidad de San Martin
   year: 2019 &mdash; 2020
-  #awards:
-  #  - award: Summa Cumme Laude graduate
+  award: .
   summary: Research Fields: Applied Machine Learning, High Energy Physics
 
 # Degree
 - degree: Physics (Licentiate Degree)
   uni: Universidad de Buenos Aires
   year: 2011 &mdash; 2016
-  #awards:
-  #  - award: Summa Cumme Laude graduate
-  summary: Graduate Thesis: "A Functional Renormalization Method for Wave Propagation in Random Media" &mdash (Statistical Mechanics, Quantum Field Theory) 
+  award: .
+  summary: Graduate Thesis: "A Functional Renormalization Method for Wave Propagation in Random Media" &mdash; (Statistical Mechanics, Quantum Field Theory) 
 
 - degree: High School Diploma (Electromechanical Technician)
   uni: La Salle Florida
   year: 2010
-  #award: Most likely to succeed
+  award: .
   summary: You can choose to have either a single or multiple awards
