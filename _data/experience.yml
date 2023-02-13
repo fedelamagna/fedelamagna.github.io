@@ -6,14 +6,14 @@
   imblock: '<div>
   <div>
     <div class="left">
-    <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" width="50%"/></a>
+    <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" width="100px"/></a>
     </div>
     <div class="right">
       <div class="nest">
-          <img class="img" src="images/Balseiro_icon.png" height="100px" />
+          <img class="img" src="images/introtolda.png" height="120px" />
       </div>
       <div>
-          <img class="img" src="images/UBA_icon.png" height="100px" />
+          <img class="img" src="images/wordcloud.png" width="230px" />
       </div>
     </div>
   </div>
