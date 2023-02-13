@@ -15,6 +15,8 @@
 
 // adding stuff Fede
 
+// esto es para hacer el hover
+
 img.hoverer{
     transition: transform .2s;
     margin:0 auto;
@@ -23,3 +25,24 @@ img.hoverer:hover{
     opacity: 0.5;
     transform:scale(1.13);
 }
+
+//  esto es para alinear imagenes tipo tabla
+
+.left, .right {
+  border-collapse: collapse;
+  display: table-cell;
+  margin: 0;
+  padding: 0;
+  vertical-align: top;
+}
+.left {
+  background: pink;
+  padding: 20px 10px 20px 20px;
+  text-align: center;
+}
+.right {
+  background: lightgreen;
+  padding: 20px 20px 20px 10px;
+}
+.nest {
+  padding-bottom: 10px;
