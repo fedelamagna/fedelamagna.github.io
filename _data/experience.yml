@@ -1,7 +1,7 @@
 - company: <a target="_blank" href="https://iarxiv.org/about">iarxiv.org</a> (Intelligent Arxiv)
   position: Data Scientist - Machine Learning Engineer
   duration: 2019 &mdash; 2020
-  summary: Together with ICAS colleagues, creating website for scientific article recommendation system, using Machine Learning. Work involved data acquisition from arXiv database, preprocessing and training topic models. Most of the development done in Python, along with coordinating and uploading into SQL database for the website back-end. More information can be found in <a href="https://arxiv.org/abs/2002.02460">this article</a>. 
+  summary: Together with ICAS colleagues, creating website for scientific article recommendation system, using Machine Learning. Work involved data acquisition from arXiv database, preprocessing and training topic models. Most of the development done in Python, along with uploading into SQL database for the website back-end. More information can be found in <a href="https://arxiv.org/abs/2002.02460">this article</a>. 
   imblock: <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" style="width:50%;" /></a> 
 
 
