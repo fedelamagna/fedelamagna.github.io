@@ -29,9 +29,9 @@
   position: Data Scientist - Machine Learning Engineer, as Private contractor for Municipal and Provincial Government
   duration: 2020 &mdash; 2021
   summary: 'Worked with a team of colleagues at ICAS in modeling covid-19 outbreaks using calls to health lines, creating dashboards and maps that allowed health officials real-time monitoring of pandemic.
-  <ul class="resume-item-list"><li>Work involved georeferencing street names with google maps API, different Machine Learning tools taken into consideration for modeling, map making tools, Uber''s Hexagonal Hierarchical Index (H3) Library, and making various choropleth maps. Most of the work done in Python, along with bash scripting inside servers.</li></ul>'
-
-# Director of Digital Stratgy
+  <ul class="resume-item-list"><li>Project involved georeferencing street names with google maps API, different Machine Learning tools taken into consideration for modeling, map making tools, Uber''s Hexagonal Hierarchical Index (H3) Library, and making various choropleth maps. Most of the work done in Python, along with bash scripting inside servers.</li>
+  <li>Work was partly financed by <a href="https://www.caf.com/en/" target="_blank">Development Bank of Latin America (CAF).</a></li></ul>'
+# Director of Digital Strategy
 #- company: United Nations Human Rights Council
 #  position: Director of Digital Strategy
 #  duration:  Jun, 2010 &mdash; Sept, 2013
