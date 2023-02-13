@@ -6,7 +6,7 @@
   imblock: '<div>
   <div>
     <div class="left">
-    <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" width="100px"/></a>
+    <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" height="270px"/></a>
     </div>
     <div class="right">
       <div class="nest">
