@@ -2,7 +2,8 @@
   uni: Instituto Balseiro
   year: 2017 &mdash; 2022
   award: Doctoral Thesis&#58; &#34;Composite Higgs Models for Flavor Physics and B-meson anomalies&#34; &mdash; (High Energy Physics, Phenomenology) 
-  link: https://i.pinimg.com/736x/5f/43/d5/5f43d5f797bbb9dffbcc17c386267f69.jpg
+  link: images/Balseiro_icon.png
+  #link: https://i.pinimg.com/736x/5f/43/d5/5f43d5f797bbb9dffbcc17c386267f69.jpg
   # summary: 
   
 - degree: Academic Stay during PhD
@@ -10,16 +11,19 @@
   year: 2019 &mdash; 2020
   award: Research Fields&#58; Applied Machine Learning, High Energy Physics
   summary: 
+  link: images/Unsam_icon.png
 
 # Degree
 - degree: Physics (Licentiate Degree)
   uni: Universidad de Buenos Aires
   year: 2011 &mdash; 2016
   award: Graduate Thesis&#58; &#34;A Functional Renormalization Method for Wave Propagation in Random Media&#34; &mdash; (Statistical Mechanics, Quantum Field Theory) 
+  link: images/UBA_icon.png
   #summary: 
 
 - degree: High School Diploma (Electromechanical Technician)
   uni: La Salle Florida
   year: 2010
+  link: images/Lasalle_icon.png
   # award: .
   # summary: You can choose to have either a single or multiple awards
