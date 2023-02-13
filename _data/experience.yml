@@ -10,7 +10,7 @@
     </div>
     <div class="right">
       <div class="nest">
-          <img class="img" src="images/introtolda.png" height="120px" />
+          <a target="_blank" href="https://arxiv.org/abs/2002.02460"><img class="hoverer" src="images/introtolda.png" height="120px" /></a>
       </div>
       <div>
           <img class="img" src="images/wordcloud.png" width="230px" />
