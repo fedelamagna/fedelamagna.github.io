@@ -25,18 +25,18 @@
   </div>
   </div>'
 
-##- company: Universidad de San Mart&iacute;n &mdash; &mdash; Georeferencing and Predicting COVID-19 Outbreaks 
+##- company: 
 #- company: UNSAM
-#  position: Data Scientist - Machine Learning Engineer, as Private contractor for Municipal and Provincial Government
-#  duration: 2020 &mdash; 2021
+#  position: 
+#  duration: 
 #  summary: 'Worked with a team of colleagues at ICAS in modeling covid-19 outbreaks using calls to health lines, creating dashboards and maps that allowed health officials real-time monitoring of pandemic. 
 #  <ul class="resume-item-list"><li>Work involved georeferencing street names with google maps API, different Machine Learning tools taken into consideration for modeling, map making tools, Uber's Hexagonal Hierarchical Index (H3) Library, and making various choropleth maps. Most of the work done in Python, along with bash scripting inside servers.</li></ul>' 
 
 
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
+- company: Universidad de San Mart&iacute;n &mdash; &mdash; Georeferencing and Predicting COVID-19 Outbreaks 
+  position: Data Scientist - Machine Learning Engineer, as Private contractor for Municipal and Provincial Government
+  duration: 2020 &mdash; 2021
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
