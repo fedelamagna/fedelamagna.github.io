@@ -23,9 +23,10 @@
       </div>
     </div>
   </div>
-</div>'
+  </div>'
 
-- company: Universidad de San Mart&iacute;n &mdash; &mdash; Georeferencing and Predicting COVID-19 Outbreaks 
+#- company: Universidad de San Mart&iacute;n &mdash; &mdash; Georeferencing and Predicting COVID-19 Outbreaks 
+- company: UNSAM
   position: Data Scientist - Machine Learning Engineer, as Private contractor for Municipal and Provincial Government
   duration: 2020 &mdash; 2021
   summary: 'Worked with a team of colleagues at ICAS in modeling covid-19 outbreaks using calls to health lines, creating dashboards and maps that allowed health officials real-time monitoring of pandemic. 
