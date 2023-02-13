@@ -46,14 +46,14 @@
   ' 
   
 - company: UNSAM and JPMorgan&#58; Artificial Intelligence for Executive Leaders
-- position: Teaching Assistant 
-- duration: 2021
-- summary: Training course for JPMorgan executives, given by members of ICAS-UNSAM. Courses aimed at showcasing the main algorithms in Machine Learning without relying heavily on math or coding. Ideas and concepts were presented instead, along with different playgrounds for examples of use. (Duration of course&#58; 3 months, biweekly lectures)
+  position: Teaching Assistant 
+  duration: 2021
+  summary: Training course for JPMorgan executives, given by members of ICAS-UNSAM. Courses aimed at showcasing the main algorithms in Machine Learning without relying heavily on math or coding. Ideas and concepts were presented instead, along with different playgrounds for examples of use. (Duration of course&#58; 3 months, biweekly lectures)
   
 - company: UNSAM and INAP&#58; Artificial Intelligence for Executive Leaders
-- position: Teaching Assistant 
-- duration: 2021
-- summary: 'Course modelled after the JPM one, adapted for workers of different Argentine government agencies (INAP: National Institute for Public Administration, an agency that coordinates the different courses that are available to government employees.)'
+  position: Teaching Assistant 
+  duration: 2022
+  summary: 'Course modelled after the JPM one, adapted for workers of different Argentine government agencies (INAP: National Institute for Public Administration, an agency that coordinates the different courses that are available to government employees.)'
 
 # Director of Digital Strategy
 #- company: United Nations Human Rights Council
