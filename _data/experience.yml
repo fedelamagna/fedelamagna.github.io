@@ -9,21 +9,22 @@
   duration: 2019 &mdash; 2020
   summary: Together with ICAS colleagues, creating website for scientific article recommendation system, using Machine Learning. Work involved data acquisition from arXiv database, preprocessing and training topic models, with the use of Natural Language Processing libraries. Most of the development done in Python, along with uploading into SQL database for the website back-end. More information can be found in <a target="_blank" href="https://arxiv.org/abs/2002.02460">this article</a>. 
   #imblock: <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" style="width:50%;"/> </a><div><img src="images/Balseiro_icon.png" style="width:40%;float:right"/><br><img src="images/UBA_icon.png" style="width:40%;float:right"/></div>
-  imblock: '<div>
+  imblock: '<div width="100%">
   <div>
-    <div class="left" width="60%">
-    <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" width="100%"/></a>
+    <div class="left" width="70%">
+    <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="https://fedelamagna.github.io/images/iarxiv1.jpg" width="100%"/></a>
     </div>
-    <div class="right" width="30%">
-      <div class="nest">
-          <a target="_blank" href="https://arxiv.org/abs/2002.02460"><img class="hoverer" src="images/introtolda.png" height="120px" /></a>  
+    <div class="right" width="100%">
+      <div class="nest" >
+          <a target="_blank" href="https://arxiv.org/abs/2002.02460"><img class="hoverer" src="https://fedelamagna.github.io/images/introtolda.png" width="30%" height="auto"/></a>  
       </div>
       <div>
-          <img class="img" src="images/wordcloud.png" width="230px" />
+          <img class="img" src="https://fedelamagna.github.io/images/wordcloud.png" width="30%" height="auto"/>
       </div>
     </div>
   </div>
   </div>'
+
 
 - company: UNSAM &mdash; Georeferencing and Predicting COVID-19 Outbreaks 
   position: Data Scientist - Machine Learning Engineer, as Private contractor for Municipal and Provincial Government
