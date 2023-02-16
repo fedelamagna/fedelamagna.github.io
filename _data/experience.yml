@@ -12,16 +12,13 @@
   imblock: '<div>
   <div>
     <div class="left">
-    #<a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" height="285px"/></a>
     <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" width="50%"/></a>
     </div>
     <div class="right">
       <div class="nest">
-          #<a target="_blank" href="https://arxiv.org/abs/2002.02460"><img class="hoverer" src="images/introtolda.png" height="120px" /></a>
           <a target="_blank" href="https://arxiv.org/abs/2002.02460"><img class="hoverer" src="images/introtolda.png" height="65%" /></a>
       </div>
       <div>
-          #<img class="img" src="images/wordcloud.png" width="230px" />
           <img class="img" src="images/wordcloud.png" width="35%" />
       </div>
     </div>
