@@ -11,10 +11,10 @@
   #imblock: <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" style="width:50%;"/> </a><div><img src="images/Balseiro_icon.png" style="width:40%;float:right"/><br><img src="images/UBA_icon.png" style="width:40%;float:right"/></div>
   imblock: '<div>
   <div>
-    <div class="left">
-    <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" height="285px"/></a>
+    <div class="left" width="60%">
+    <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" width="100%"/></a>
     </div>
-    <div class="right">
+    <div class="right" width="30%">
       <div class="nest">
           <a target="_blank" href="https://arxiv.org/abs/2002.02460"><img class="hoverer" src="images/introtolda.png" height="120px" /></a>  
       </div>
