@@ -9,23 +9,19 @@
   duration: 2019 &mdash; 2020
   summary: Together with ICAS colleagues, creating website for scientific article recommendation system, using Machine Learning. Work involved data acquisition from arXiv database, preprocessing and training topic models, with the use of Natural Language Processing libraries. Most of the development done in Python, along with uploading into SQL database for the website back-end. More information can be found in <a target="_blank" href="https://arxiv.org/abs/2002.02460">this article</a>. 
   #imblock: <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" style="width:50%;"/> </a><div><img src="images/Balseiro_icon.png" style="width:40%;float:right"/><br><img src="images/UBA_icon.png" style="width:40%;float:right"/></div>
-  imblock: '
-<div width="100%">
-  <div width="100%">
-    <div class="left">
-    <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" width="100%" height="auto"/></a>
+  imblock: '<div width="200%">
+    <div class="left" width="200%">
+    <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" width="185%" height="auto"/></a>
     </div>
-    <div class="right">
-      <div class="nest">
-          <a target="_blank" href="https://arxiv.org/abs/2002.02460"><img class="hoverer" src="images/introtolda.png" width="31%" height="auto" /></a>  
+    <div class="right" width="100%">
+      <div class="nest" >
+          <a target="_blank" href="https://arxiv.org/abs/2002.02460"><img class="hoverer" src="images/introtolda.png" width="59%"/></a>  
       </div>
       <div>
-          <img class="img" src="images/wordcloud.png" width="31%" height="auto" />
+          <img class="img" src="images/wordcloud.png" width="59%" />
       </div>
     </div>
-  </div>
-  </div>
-'
+  </div>'
 
 
 - company: UNSAM &mdash; Georeferencing and Predicting COVID-19 Outbreaks 
