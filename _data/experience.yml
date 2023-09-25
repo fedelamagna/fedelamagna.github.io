@@ -81,8 +81,8 @@
   summary: 'Taught course to executives of the Argentine Postal Service (Correo Argentino). Subjects included history of AI, supervised&#47;unsupervised&#47;reinforcement learning,  neural networks, Bayesian inference, deep learning, clustering algorithms, etc.'
   imblock: '<div><img src="images/NN03.png" width="50%"/> 
 <img src="images/kmeans.png" width="40%"/> </div>
-  <div><img src="images/PCA.png" width="25%"/>
-  <img src="images/bayes-1.png" width="65%"/></div>
+  <div><img src="images/PCA.png" width="27%"/>
+  <img src="images/bayes-1.png" width="63%"/></div>
   ' 
 
 - company: UNSAM and Correo Argentino&#58; Data Science Consulting
