@@ -58,21 +58,33 @@
   
 - company: UNSAM and JPMorgan&#58; Artificial Intelligence for Executive Leaders
   position: Teaching Assistant 
+  link: images/Unsam_icon.png
+  link2: icas.unsam.edu.ar/
+  links: 65
   duration: 2021
   summary: Training course for JPMorgan executives, given by members of ICAS-UNSAM. Courses aimed at showcasing the main algorithms in Machine Learning without relying heavily on math or coding. Ideas and concepts were presented instead, along with different playgrounds for examples of use. (Duration of course&#58; 3 months, biweekly lectures)
   
 - company: UNSAM and INAP&#58; Artificial Intelligence for Executive Leaders
   position: Teaching Assistant 
+  link: images/Unsam_icon.png
+  link2: icas.unsam.edu.ar/
+  links: 65
   duration: 2022
   summary: 'Course modelled after the JPM one, adapted for workers of different Argentine government agencies (INAP: National Institute for Public Administration, an agency that coordinates the different courses that are available to government employees.)'
 
 - company: UNSAM and Correo Argentino&#58; Artificial Intelligence for Executive Leaders
   position: Teacher 
+  link: images/Unsam_icon.png
+  link2: icas.unsam.edu.ar/
+  links: 65
   duration: 2023
   summary: 'Taught course to executives of the Argentine Postal Service (Correo Argentino).'
 
 - company: UNSAM and Correo Argentino&#58; Data Science Consulting
   position: Tech&#47;ML Consultant 
+  link: images/Unsam_icon.png
+  link2: icas.unsam.edu.ar/
+  links: 65
   duration: 2023
   summary: 'Provided services related to the overhaul of different sectors in the company with the use of AI/ML.'
 
@@ -80,8 +92,8 @@
   position: Tech Consultant &mdash; Aerospace and Data Analysis 
   duration: Mar. 2023 &mdash; 
   link: images/sogi.png
-  link2: https://sogi.com.ar/en/home
-  links: 90
+  link2: https://sogi.com.ar/en/home/
+  links: 80
   summary: 'Working as a consultant providing services to firm <a target="_blank" href="https://tlon.space">TLON Space</a>. Worked on their 9th flight mission (Sept. 2023), on the Guidance, Navigation and Control systems, and related sectors.'
 # Director of Digital Strategy
 #- company: United Nations Human Rights Council
