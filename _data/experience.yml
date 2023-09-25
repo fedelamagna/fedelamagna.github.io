@@ -54,6 +54,20 @@
   duration: 2022
   summary: 'Course modelled after the JPM one, adapted for workers of different Argentine government agencies (INAP: National Institute for Public Administration, an agency that coordinates the different courses that are available to government employees.)'
 
+- company: UNSAM and Correo Argentino&#58; Artificial Intelligence for Executive Leaders
+  position: Teacher 
+  duration: 2023
+  summary: 'Taught course to executives of the Argentine Postal Service (Correo Argentino).'
+
+- company: UNSAM and Correo Argentino&#58; Data Science Consulting
+  position: Tech ML Consultant 
+  duration: 2023
+  summary: 'Provided services related to the overhaul of different sectors in the company with the use of AI/ML.'
+
+- company: <a target="_blank" href="https://sogi.com.ar/en/home/">SOGI</a>
+  position: Tech Consultant &mdash Aerospace and Data Analysis 
+  duration: Mar. 2023 &mdash; 
+  summary: 'Working as a consultant providing services to firm <a target="_blank" href="https://tlon.space">TLON Space</a>. Worked on their 9th flight mission (Sept. 2023), helping in the guidance, navigation and control system and related sectors.'
 # Director of Digital Strategy
 #- company: United Nations Human Rights Council
 #  position: Director of Digital Strategy
