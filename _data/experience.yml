@@ -14,7 +14,7 @@
   #imblock: <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" style="width:50%;"/> </a><div><img src="images/Balseiro_icon.png" style="width:40%;float:right"/><br><img src="images/UBA_icon.png" style="width:40%;float:right"/></div>
   link: images/david-px.png
   link2: https://iarxiv.org/about
-  links: 75
+  links: 65
   imblock: '<div width="100%">
     <div class="left" width="200%">
     <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" width="185%" height="auto"/></a>
