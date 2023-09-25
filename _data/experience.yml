@@ -33,6 +33,9 @@
 - company: UNSAM &mdash; Georeferencing and Predicting COVID-19 Outbreaks 
   position: Data Scientist - Machine Learning Engineer, as Private contractor for Municipal and Provincial Government
   duration: 2020 &mdash; 2021
+  link: images/Unsam_icon.png
+  link2: icas.unsam.edu.ar/
+  links: 65
   summary: 'Worked with a team of colleagues at ICAS in modelling covid-19 outbreaks using calls to health lines, creating dashboards and maps that allowed health officials real-time monitoring of pandemic.
   <ul class="resume-item-list"><li>Project involved georeferencing street names with google maps API, different Machine Learning tools taken into consideration for modelling, map making tools, <a target="_blank" href="https://www.uber.com/en-UY/blog/h3/">Uber''s Hexagonal Hierarchical Index (H3)</a> Library, and making various choropleth maps. Most of the work done in Python, along with bash scripting inside servers.</li>
   <li>Work was partly financed by <a href="https://www.caf.com/en/" target="_blank">Development Bank of Latin America (CAF).</a></li></ul>'
@@ -45,6 +48,9 @@
 - company: UNSAM &mdash; Studying population tendencies for Government Agencies
   position: Data Scientist - Machine Learning Engineer
   duration: 2021 
+  link: images/Unsam_icon.png
+  link2: icas.unsam.edu.ar/
+  links: 65
   summary: As a private contractor for provincial government, we worked on modelling populations and their buying tendencies within the Buenos Aires province. Work involved Bayesian models along with choropleth map visualizations.
   imblock: '<div><img src="images/hexBA.png" width="35%"/> 
   <img src="images/fertmap.jpg" width="55%"/></div>
