@@ -79,6 +79,11 @@
   links: 65
   duration: 2023
   summary: 'Taught course to executives of the Argentine Postal Service (Correo Argentino).'
+  imblock: '<div><img src="images/NN03.png" width="55%"/> 
+<img src="images/kmeans.png" width="35%"/> </div>
+  <img src="images/PCA.png" width="95%"/>
+  <img src="images/bayes-1.png" width="95%"/>
+  ' 
 
 - company: UNSAM and Correo Argentino&#58; Data Science Consulting
   position: Tech&#47;ML Consultant 
