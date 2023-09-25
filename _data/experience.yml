@@ -78,7 +78,7 @@
   link2: icas.unsam.edu.ar/
   links: 65
   duration: 2023
-  summary: 'Taught course to executives of the Argentine Postal Service (Correo Argentino). Subjects included supervised, unsupervised and reinforcement learning, history of AI, neural networks, bayesian inference, deep learning, clustering algorithms.'
+  summary: 'Taught course to executives of the Argentine Postal Service (Correo Argentino). Subjects included supervised, unsupervised and reinforcement learning, history of AI, neural networks, Bayesian inference, deep learning, clustering algorithms, etc.'
   imblock: '<div><img src="images/NN03.png" width="50%"/> 
 <img src="images/kmeans.png" width="40%"/> </div>
   <img src="images/PCA.png" width="55%"/>
