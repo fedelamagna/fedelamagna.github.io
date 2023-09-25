@@ -87,7 +87,7 @@
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
         {% if job.link %}
-        <a href="{{job.link2}}" target="_blank"> <img src="{{ job.link }}" style="float:left;"  width="{{job.links}}" height="{{job.links}}" />&nbsp;</a>
+        <a href="{{job.link2}}" target="_blank"> <img src="{{ job.link }}" style="float:left;"  width="{{job.links}}" height="{{job.links}}" /><br></b></p></a>
         {% endif %}
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
