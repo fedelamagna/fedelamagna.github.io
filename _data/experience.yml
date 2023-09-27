@@ -6,6 +6,7 @@
   link: images/UBA_icon.png
   link2: https://df.uba.ar/
   links: 55
+  linkc: ""
 
 - company: <a target="_blank" href="https://iarxiv.org/about">iarxiv.org</a> (Intelligent Arxiv)
   position: Data Scientist - Machine Learning Engineer
@@ -15,6 +16,7 @@
   link: images/david-px.png
   link2: https://iarxiv.org/about
   links: 55
+  linkc: ""
   imblock: '<div width="100%">
     <div class="left" width="200%">
     <a href="https://iarxiv.org/about" target="_blank"> <img class="hoverer" src="images/iarxiv1.jpg" width="185%" height="auto"/></a>
@@ -51,6 +53,7 @@
   link: images/Unsam_icon.png
   link2: https://icas.unsam.edu.ar/
   links: 65
+  linkc: ""
   summary: As a private contractor for provincial government, we worked on modelling populations and their buying tendencies within the Buenos Aires province. Work involved Bayesian models along with choropleth map visualizations.
   imblock: '<div><img src="images/hexBA.png" width="35%"/> 
   <img src="images/fertmap.jpg" width="55%"/></div>
@@ -61,6 +64,7 @@
   link: images/Unsam_icon.png
   link2: https://icas.unsam.edu.ar/
   links: 65
+  linkc: ""
   duration: 2021
   summary: Training course for JPMorgan executives, given by members of ICAS-UNSAM. Courses aimed at showcasing the main algorithms in Machine Learning without relying heavily on math or coding. Ideas and concepts were presented instead, along with different playgrounds for examples of use. (Duration of course&#58; 3 months, biweekly lectures)
   
@@ -69,6 +73,7 @@
   link: images/Unsam_icon.png
   link2: https://icas.unsam.edu.ar/
   links: 65
+  linkc: ""
   duration: 2022
   summary: 'Course modelled after the JPM one, adapted for workers of different Argentine government agencies (INAP: National Institute for Public Administration, an agency that coordinates the different courses that are available to government employees.)'
 
@@ -77,6 +82,7 @@
   link: images/Unsam_icon.png
   link2: https://icas.unsam.edu.ar/
   links: 65
+  linkc: ""
   duration: 2023
   summary: 'Taught course to executives of the Argentine Postal Service (Correo Argentino). Subjects included history of AI, supervised&#47;unsupervised&#47;reinforcement learning,  neural networks, Bayesian inference, deep learning, clustering algorithms, and more.'
   imblock: '<div><img src="images/NN03.png" width="51%"/> 
@@ -90,6 +96,7 @@
   link: images/Unsam_icon.png
   link2: https://icas.unsam.edu.ar/
   links: 65
+  linkc: ""
   duration: 2023
   summary: 'Provided services related to the overhaul of different sectors of the Postal Service aided by AI/ML.'
 
@@ -99,6 +106,7 @@
   link: images/sogi.png
   link2: https://sogi.com.ar/en/home/
   links: 64
+  linkc: "hoverer"
   summary: 'Working as a consultant providing services to Space tech firm <a target="_blank" href="https://tlon.space">TLON</a>. Worked on their 9th flight mission (Sept. 2023), on the Guidance, Navigation and Control systems, and related sectors.'
 # Director of Digital Strategy
 #- company: United Nations Human Rights Council
