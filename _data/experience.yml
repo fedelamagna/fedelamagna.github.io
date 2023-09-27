@@ -24,7 +24,7 @@
           <a target="_blank" href="https://arxiv.org/abs/2002.02460"><img class="hoverer" src="images/introtolda.png" width="59%"/></a>  
       </div>
       <div>
-          <a target="_blank" href="https://en.wikipedia.org/wiki/Topic_model"><img class="img" src="images/wordcloud.png" width="59%" /></a>
+          <a target="_blank" href="https://en.wikipedia.org/wiki/Topic_model"><img class="hoverer" src="images/wordcloud.png" width="59%" /></a>
       </div>
     </div>
   </div>'
