@@ -34,7 +34,7 @@
   position: Data Scientist - Machine Learning Engineer, as Private contractor for Municipal and Provincial Government
   duration: 2020 &mdash; 2021
   link: images/Unsam_icon.png
-  link2: icas.unsam.edu.ar/
+  link2: https://icas.unsam.edu.ar/
   links: 65
   summary: 'Worked with a team of colleagues at ICAS in modelling Covid-19 outbreaks using calls to health lines, creating dashboards and maps that allowed health officials real-time monitoring of pandemic.
   <ul class="resume-item-list"><li>Project involved georeferencing street names with Google Maps API, different Machine Learning tools taken into consideration for modelling, map making tools, <a target="_blank" href="https://www.uber.com/en-UY/blog/h3/">Uber''s Hexagonal Hierarchical Index (H3)</a> Library, and making various choropleth maps. Most of the work done in Python, along with bash scripting inside servers.</li>
@@ -49,7 +49,7 @@
   position: Data Scientist - Machine Learning Engineer
   duration: 2021 
   link: images/Unsam_icon.png
-  link2: icas.unsam.edu.ar/
+  link2: https://icas.unsam.edu.ar/
   links: 65
   summary: As a private contractor for provincial government, we worked on modelling populations and their buying tendencies within the Buenos Aires province. Work involved Bayesian models along with choropleth map visualizations.
   imblock: '<div><img src="images/hexBA.png" width="35%"/> 
@@ -59,7 +59,7 @@
 - company: UNSAM and JPMorgan&#58; Artificial Intelligence for Executive Leaders
   position: Teaching Assistant 
   link: images/Unsam_icon.png
-  link2: icas.unsam.edu.ar/
+  link2: https://icas.unsam.edu.ar/
   links: 65
   duration: 2021
   summary: Training course for JPMorgan executives, given by members of ICAS-UNSAM. Courses aimed at showcasing the main algorithms in Machine Learning without relying heavily on math or coding. Ideas and concepts were presented instead, along with different playgrounds for examples of use. (Duration of course&#58; 3 months, biweekly lectures)
@@ -67,7 +67,7 @@
 - company: UNSAM and INAP&#58; Artificial Intelligence for Executive Leaders
   position: Teaching Assistant 
   link: images/Unsam_icon.png
-  link2: icas.unsam.edu.ar/
+  link2: https://icas.unsam.edu.ar/
   links: 65
   duration: 2022
   summary: 'Course modelled after the JPM one, adapted for workers of different Argentine government agencies (INAP: National Institute for Public Administration, an agency that coordinates the different courses that are available to government employees.)'
@@ -75,7 +75,7 @@
 - company: UNSAM and Correo Argentino&#58; Artificial Intelligence for Executive Leaders
   position: Teacher 
   link: images/Unsam_icon.png
-  link2: icas.unsam.edu.ar/
+  link2: https://icas.unsam.edu.ar/
   links: 65
   duration: 2023
   summary: 'Taught course to executives of the Argentine Postal Service (Correo Argentino). Subjects included history of AI, supervised&#47;unsupervised&#47;reinforcement learning,  neural networks, Bayesian inference, deep learning, clustering algorithms, and more.'
@@ -88,7 +88,7 @@
 - company: UNSAM and Correo Argentino&#58; Data Science Consulting
   position: Tech&#47;ML Consultant 
   link: images/Unsam_icon.png
-  link2: icas.unsam.edu.ar/
+  link2: https://icas.unsam.edu.ar/
   links: 65
   duration: 2023
   summary: 'Provided services related to the overhaul of different sectors of the Postal Service aided by AI/ML.'
