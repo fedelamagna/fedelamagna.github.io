@@ -26,6 +26,15 @@ img.hoverer:hover{
     transform:scale(1.07);
 }
 
+img.hoverex{
+    transition: transform .2s;
+    margin:0 auto;
+}
+img.hoverex:hover{
+    opacity: 0.5;
+    transform:scale(1.07);
+}
+
 //  esto es para alinear imagenes tipo tabla
 
 .left, .right {
