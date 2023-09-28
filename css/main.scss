@@ -40,11 +40,8 @@ img.hoverer:hover{
     }
     .hoverobj:hover .imgH {
         display: inline;
-        opacity: 0.5;
+        opacity: 1;
         transform:scale(1.07);
-    }
-    .hoverobj:hover .imgO {
-        display: none;
     }
 
 //  esto es para alinear imagenes tipo tabla
