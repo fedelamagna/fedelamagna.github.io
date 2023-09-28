@@ -39,7 +39,7 @@
           <a target="_blank" href="https://en.wikipedia.org/wiki/Topic_model"><img class="hoverer" src="images/wordcloud.png" width="59%" /></a>
       </div>
     </div>
-  </div>'
+  </div><hr>'
 
 
 - company: UNSAM &mdash; Georeferencing and Predicting COVID-19 Outbreaks 
@@ -54,7 +54,7 @@
   imblock: '<div><a target="_blank" href="https://royalsocietypublishing.org/doi/full/10.1098/rsos.202312"><img class="hoverer" src="images/calls_model.png" width="55%"/></a> 
   <a target="_blank" href="https://www.uber.com/en-UY/blog/h3/"><img class="hoverer" src="images/uber_hexa.png" width="35%"/></a> </div>
   <a target="_blank" href="images/hexesmap.html"><img class="hoverer" src="images/hexesmap.jpg" width="95%"/></a>
-  <a target="_blank" href="images/munismap.html"><img class="hoverer" src="images/maps_munis.jpg" width="95%"/></a>
+  <a target="_blank" href="images/munismap.html"><img class="hoverer" src="images/maps_munis.jpg" width="95%"/></a><hr>
   ' 
   #
 - company: UNSAM &mdash; Studying population tendencies for Government Agencies
@@ -66,7 +66,7 @@
   linkc: ""
   summary: As a private contractor for provincial government, we worked on modelling populations and their buying tendencies within the Buenos Aires province. Work involved Bayesian models along with choropleth map visualizations.
   imblock: '<div><img src="images/hexBA.png" width="35%"/> 
-  <img src="images/fertmap.jpg" width="55%"/></div>
+  <img src="images/fertmap.jpg" width="55%"/></div><hr>
   ' 
   
 - company: UNSAM and JPMorgan&#58; Artificial Intelligence for Executive Leaders
@@ -98,7 +98,7 @@
   imblock: '<div><img src="images/NN03.png" width="51%"/> 
 <img src="images/kmeans.png" width="39%"/> </div>
   <div><img src="images/PCA.png" width="27%"/>
-  <img src="images/bayes-1.png" width="63%"/></div>
+  <img src="images/bayes-1.png" width="63%"/></div><hr>
   ' 
 
 - company: UNSAM and Correo Argentino&#58; Data Science Consulting
