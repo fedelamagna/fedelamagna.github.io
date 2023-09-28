@@ -35,9 +35,13 @@ img.hoverer:hover{
         top: 0;
         left: 0;
         z-index: 99;
+        transition: transform .2s;
+        margin:0 auto;
     }
     .card:hover .imgH {
         display: inline;
+        opacity: 0.5;
+        transform:scale(1.07);
     }
 
 //  esto es para alinear imagenes tipo tabla
