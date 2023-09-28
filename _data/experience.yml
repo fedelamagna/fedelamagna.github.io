@@ -14,10 +14,10 @@
   position: Aa
   duration: A 20AA &mdash; A 20AB
   summary: A aa A aa AA a aAaA AaaaAaAa
-  link: images/david-px.png
-  link2: https://google.com
-  links: 55
-  linkc: ""
+  #link: images/david-px.png
+  #link2: https://google.com
+  #links: 55
+  #linkc: ""
 
 - company: <a id="iarxiv" target="_blank" href="https://iarxiv.org/about">iarxiv.org</a> (Intelligent Arxiv)
   position: Data Scientist - Machine Learning Engineer
