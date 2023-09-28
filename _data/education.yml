@@ -2,6 +2,11 @@
   uni: La Salle Florida
   year: 2010
   link: images/Lasalle_icon.png
+  summary: ' <div class="hoverobj">
+        <img src="images/evasion_full.png" alt="ev_f">
+        <img src="images/evasion_fpx.png" class="imgH" alt="ev_px">
+    </div>
+  '
   
 - degree: Physics (Licentiate Degree)
   uni: Universidad de Buenos Aires
