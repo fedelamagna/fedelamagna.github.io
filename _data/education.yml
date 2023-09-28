@@ -2,10 +2,10 @@
   uni: La Salle Florida
   year: 2010
   link: images/Lasalle_icon.png
-  summary: '<center> <div class="hoverobj">
-        <img src="images/evasion_full.png" width="65%" height="auto" alt="ev_f">
-        <img src="images/evasion_fpx.png" class="imgH" width="65%" height="auto" alt="ev_px">
-    </div></center>
+  summary: '<div class="hoverobj">
+        <center><img src="images/evasion_full.png" width="65%" height="auto" alt="ev_f"></center>
+        <center><img src="images/evasion_fpx.png" class="imgH" width="65%" height="auto" alt="ev_px"></center>
+    </div><
   '
   
 - degree: Physics (Licentiate Degree)
