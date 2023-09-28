@@ -25,15 +25,20 @@ img.hoverer:hover{
     opacity: 0.5;
     transform:scale(1.07);
 }
-
-img.hoverex{
-    transition: transform .2s;
-    margin:0 auto;
-}
-img.hoverex:hover{
-    opacity: 0.5;
-    transform:scale(1.07);
-}
+    .hoverobj {
+        position: relative;
+        display: inline-block;
+    }
+    .card .imgH {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 99;
+    }
+    .card:hover .imgH {
+        display: inline;
+    }
 
 //  esto es para alinear imagenes tipo tabla
 
