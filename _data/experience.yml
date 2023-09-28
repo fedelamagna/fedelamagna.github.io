@@ -3,8 +3,8 @@
   position: Undergraduate Teaching Assistant 
   duration: 2016
   summary: 'Worked as undergraduate teaching assistant while working on my graduate thesis, for the duration of two semesters. Subjects taught&#58; Quantum Mechanics, Statistical Mechanics.'
-  imblock: '<p><center><img class="" src="images/feynman_c.jpg" width="75%" height="auto"/></center>
-  <p><center><em>Richard Feynman, who once wrote "What I cannot create, I do not understand".</em></center><hr>'
+  imblock: '<p><center><img class="" src="images/feynman_c.jpg" width="75%" height="auto"/></p></center>
+  <p><center><em>Richard Feynman, who once wrote "What I cannot create, I do not understand".</em></p></center><hr>'
   link: images/UBA_icon.png
   link2: https://df.uba.ar/
   links: 55
