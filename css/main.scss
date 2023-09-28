@@ -29,7 +29,7 @@ img.hoverer:hover{
         position: relative;
         display: inline-block;
     }
-    .card .imgH {
+    .hoverobj .imgH {
         display: none;
         position: absolute;
         top: 0;
@@ -38,7 +38,7 @@ img.hoverer:hover{
         transition: transform .2s;
         margin:0 auto;
     }
-    .card:hover .imgH {
+    .hoverobj:hover .imgH {
         display: inline;
         opacity: 0.5;
         transform:scale(1.07);
