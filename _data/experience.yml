@@ -90,7 +90,8 @@
   imblock: '<div><img src="images/NN03.png" width="51%"/> 
 <img src="images/kmeans.png" width="39%"/> </div>
   <div><img src="images/PCA.png" width="27%"/>
-  <img src="images/bayes-1.png" width="63%"/></div><hr>
+  <img src="images/bayes-1.png" width="63%"/></div>
+  <p>You can also check the course syllabus <a target="_blank" href="ia_syllabus.html">here</a>.</p><hr>
   ' 
 
 - company: UNSAM and Correo Argentino&#58; Data Science Consulting
