@@ -2,6 +2,7 @@
   uni: La Salle Florida
   year: 2010
   link: images/Lasalle_icon.png
+  summary:'<hr>'
   
 - degree: Physics (Licentiate Degree)
   uni: Universidad de Buenos Aires
@@ -12,7 +13,7 @@
   <br> Vision of physics: An opaque, endless extension of protons and electrons, radiating in the void; or perhaps (ghost of a universe) the totality of radiations of a substance that does not exist.</i></blockquote>
   <p> — <i>A Plan for Escape</i>, Adolfo Bioy Casares (1945)</p>
   <center><a href="https://www.google.com/maps/@5.2936051,-52.5800062,16z" target="_blank"> <img class="hoverer" src="images/evasion_st.png" width="75%" height="auto"/></a></center>
-<br>Graduate research involved applying Quantum Field Theory tools to the study of wave propagation in random media. Learn more about it <a target="_blank"  href="https://arxiv.org/abs/1612.03845">here</a>. You can also <a target="_blank" href="images/Tesis_Grado.pdf">read the whole thesis</a> (Spanish) if you are so inclined.'
+<br>Graduate research involved applying Quantum Field Theory tools to the study of wave propagation in random media. Learn more about it <a target="_blank"  href="https://arxiv.org/abs/1612.03845">here</a>. You can also <a target="_blank" href="images/Tesis_Grado.pdf">read the whole thing (Spanish)</a> if you are so inclined.<hr>'
 
   
 - degree: Academic Stay during PhD
@@ -20,7 +21,7 @@
   year: 2019 &mdash; 2020
   award: Research Fields&#58; Applied Machine Learning, High Energy Physics
   summary: 'As part of my PhD, I did an academic stay in the International Center for Advanced Studies, in the Universidad de San Mart&iacute;n campus. Our research subjects involved the consideration of Machine Learning tools and their applications in High Energy Phenomenology problems. Particularly, we focused on the distinction between signal and backgrounds in processes involving the Top quark, which could potentially hide new physics. Besides working in particle physics, some of these advances in Machine Learning were considered for certain <a href="#iarxiv">real-life scenarios</a>.
-  <p><center><a href="https://icas.unsam.edu.ar/" target="_blank"> <img class="" src="images/tornavia.jpg" width="75%" height="auto"/></a></center></p>'
+  <p><center><a href="https://icas.unsam.edu.ar/" target="_blank"> <img class="" src="images/tornavia.jpg" width="75%" height="auto"/></a></center></p><hr>'
   link: images/Unsam_icon.png
 
 - degree: Doctor of Philosophy (PhD) in Physics
@@ -31,6 +32,6 @@
   #link: https://i.pinimg.com/736x/5f/43/d5/5f43d5f797bbb9dffbcc17c386267f69.jpg
   summary: '<p>My research focused on Beyond the Standard Model physics, particularly with approaches to the Higgs Hierarchy Problem and the recent B-meson anomalies in flavor physics. We considered different approaches to these problems by making use of the Composite Higgs framework. With an effective theory description, we modelled the particle content of the new physics sector, and considered in detail their effect on well defined flavor observables, along with the B-anomalies.</p>
   <p><a target="_blank" href="images/sml_black.png">Learn more about the Standard Model of Particle Physics</a>.</p>
-  <p><center><a> <img class="" src="images/higgs_traces.png" width="81%" height="auto"/></a></center></p>' 
+  <p><center><a> <img class="" src="images/higgs_traces.png" width="81%" height="auto"/></a></center></p><hr>' 
   
 
