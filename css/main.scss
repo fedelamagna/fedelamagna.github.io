@@ -66,3 +66,17 @@ img.hoverer:hover{
 .nest {
   padding-bottom: 1px;
 }
+
+// hover text
+
+hovertext .txtT {
+  display: none;
+}
+
+hovertext:hover .txtB {
+  display: none;
+}
+
+hovertext:hover .txtT {
+  display: inline;
+}
