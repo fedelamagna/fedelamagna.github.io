@@ -86,10 +86,10 @@
   links: 65
   linkc: ""
   duration: 2023
-  summary: 'Taught course to executives of the Argentine Postal Service (Correo Argentino). Subjects included history of AI, supervised&#47;unsupervised&#47;reinforcement learning,  neural networks, Bayesian inference, deep learning, clustering algorithms, and more.'
+  summary: ' <a target="_blank" href="images/sml_black.png"> Taught course to executives of the Argentine Postal Service (Correo Argentino). Subjects included history of AI, supervised&#47;unsupervised&#47;reinforcement learning,  neural networks, Bayesian inference, deep learning, clustering algorithms, and more.'
   imblock: '<div><img src="images/NN03.png" width="51%"/> 
 <img src="images/kmeans.png" width="39%"/> </div>
-  <div><img src="images/PCA.png" width="27%"/>
+  <div> <a target="_blank" href="images/sml_black.png"><img src="images/PCA.png" width="27%"/>
   <img src="images/bayes-1.png" width="63%"/></div>
   <p>You can also check the course syllabus <a target="_blank" href="ai_syllabus.html">here</a>.</p><hr>
   ' 
