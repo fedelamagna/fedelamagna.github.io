@@ -80,3 +80,10 @@ hovertext:hover .txtB {
 hovertext:hover .txtT {
   display: inline;
 }
+
+.contimg {
+ display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
