@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: '<a id="publi">Publications</a>'
+- project: '<a id="publi"></a>Publications'
   #role: Founder & Primary Developer
   #duration: 2012 &mdash; Present
   # url: "#"
