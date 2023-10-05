@@ -1,5 +1,4 @@
 # Skills
-# Organizational leadership
 - skill: Programming Languages
   description: '<ul class="resume-item-list">
   <li>Python (Advanced)</li>
@@ -7,11 +6,11 @@
   <li>SQL (Beginner)</li>
   </ul>'
 
-# Communications strategy
 - skill: Other software and tools
   description: '<ul class="resume-item-list">
   <li>LaTeX</li>
   <li>Wolfram Mathematica</li>
+  <li>HTML/CSS
   </ul>'
   
 - skill: Languages
