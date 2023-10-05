@@ -57,7 +57,10 @@
 
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <img src="{{ education.link }}" style="float:left;"  width="65" height="65" /><h3 class="resume-item-title" itemprop="name">&nbsp;{{ education.uni }}</h3>
+        {% if education.link %}
+        <a href="{{education.link2}}" target="_blank"> <img src="{{ education.link }}" style="float:left;" class="{{ education.linkc }}" width="{{education.links}}" height="{{education.links}}" />   </b></p></a>
+        {% endif %}
+          <!-- <img src="{{ education.link }}" style="float:left;"  width="65" height="65" /><h3 class="resume-item-title" itemprop="name">&nbsp;{{ education.uni }}</h3> --><h3 class="resume-item-title" itemprop="name">&nbsp;{{ education.uni }}</h3>
           <h4 class="resume-item-details group" itemprop="description">&nbsp;{{ education.degree }} &bull; {{ education.year }}</h4>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
           <p class="resume-item-copy" itemprop="description">
