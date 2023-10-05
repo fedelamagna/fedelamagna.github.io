@@ -2,12 +2,18 @@
   uni: La Salle Florida
   year: 2010
   link: images/Lasalle_icon.png
+  #link2: https://df.uba.ar/
+  links: 65
+  linkc: ""
   
 - degree: Physics (Licentiate Degree)
   uni: Universidad de Buenos Aires
   year: 2011 &mdash; 2016
   award: Graduate Thesis&#58; &#34;A Functional Renormalization Method for Wave Propagation in Random Media&#34; &mdash; (Statistical Mechanics, Quantum Field Theory) 
   link: images/UBA_icon.png
+  link2: https://df.uba.ar/
+  links: 65
+  linkc: ""
   summary: '<blockquote><hovertext><span style="padding: 15px 0px;" class="txtB"><i>Life and the world, as the vision of every man: We live upon stones and clay, among wood with green leaves, devouring fragments of the universe which includes us, among open fires, among fluids, combining sounds, protecting what''s past and what''s to come, painful, warm-blooded, ritualistic, dreaming that we dream, irritated, smelling, touching, among people, in an insatiable garden which our fall will abolish. 
   <br> Vision of physics: An opaque, endless extension of protons and electrons, radiating in the void; or perhaps (ghost of a universe) the totality of radiations of a substance that does not exist.</i></span>
   <span style="padding: 15px 0px;" class="txtT"><i>La vida y el mundo, como visión de un hombre cualquiera: Vivimos sobre piedras y barro, entre maderas con hojas verdes, devorando fragmentos del universo que nos incluye, entre fogatas, entre fluidos, combinando resonancias, protegiendo lo pasado y lo por venir, dolorosos, térmicos, rituales, soñando que soñamos, irritados, oliendo, palpando, entre personas, en un insaciable jardín que nuestra caída abolirá.
@@ -24,12 +30,19 @@
   summary: 'As part of my PhD, I did an academic stay in the International Center for Advanced Studies, in the Universidad de San Mart&iacute;n campus. Our research subjects involved the consideration of Machine Learning tools and their applications in High Energy Phenomenology problems. Particularly, we focused on the distinction between signal and backgrounds in processes involving the Top quark, which could potentially hide new physics. Besides working in particle physics, some of these advances in Machine Learning were considered for certain <a href="#iarxiv">real-life scenarios</a>.
   <p><center><a href="https://icas.unsam.edu.ar/" target="_blank"> <img class="" src="images/tornavia.jpg" width="75%" height="auto"/></a></center></p><hr>'
   link: images/Unsam_icon.png
+  link2: https://icas.unsam.edu.ar/
+  links: 65
+  linkc: ""
 
 - degree: Doctor of Philosophy (PhD) in Physics
   uni: Instituto Balseiro
   year: 2017 &mdash; 2022
   award: Doctoral Thesis&#58; &#34;Composite Higgs Models for Flavor Physics and B-meson anomalies&#34; &mdash; (High Energy Physics, Phenomenology) 
   link: images/Balseiro_icon.png
+  link2: https://ib.edu.ar/
+  links: 65
+  linkc: ""
+  
   #link: https://i.pinimg.com/736x/5f/43/d5/5f43d5f797bbb9dffbcc17c386267f69.jpg
   summary: '<p>My research focused on Beyond the Standard Model physics, particularly with approaches to the Higgs Hierarchy Problem and the recent B-meson anomalies in flavor physics. We considered different approaches to these problems by making use of the Composite Higgs framework. With an effective theory description, we modelled the particle content of the new physics sector, and considered in detail their effect on well defined flavor observables, along with the B-anomalies.</p>
   <p>You can read some of the research <a href="#publi">here</a>, as well as the <a target="_blank" href="images/Tesis_F_Lamagna_Final.pdf">full Thesis</a>.
