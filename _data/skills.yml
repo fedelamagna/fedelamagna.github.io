@@ -3,14 +3,14 @@
   description: '<ul class="resume-item-list">
   <li>Python (Advanced)</li>
   <li>C/C++ (Intermediate)</li>
-  <li>SQL (Beginner)</li>
+  <li>SQL (Advanced)</li>
   </ul>'
 
 - skill: Other software and tools
   description: '<ul class="resume-item-list">
   <li>LaTeX</li>
   <li>Wolfram Mathematica</li>
-  <li>HTML/CSS
+  <li>Web Development - HTML/CSS/PHP (Intermediate)
   </ul>'
   
 - skill: Languages
