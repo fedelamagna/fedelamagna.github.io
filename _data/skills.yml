@@ -1,16 +1,16 @@
 # Skills
 - skill: Programming Languages
   description: '<ul class="resume-item-list">
-  <li>Python (Advanced)</li>
-  <li>C/C++ (Intermediate)</li>
-  <li>SQL (Advanced)</li>
+  <li>Python</li>
+  <li>C/C++</li>
+  <li>SQL</li>
   </ul>'
 
 - skill: Other software and tools
   description: '<ul class="resume-item-list">
   <li>LaTeX</li>
   <li>Wolfram Mathematica</li>
-  <li>Web Development - HTML/CSS/PHP (Intermediate)
+  <li>Web Development - HTML/CSS/PHP
   </ul>'
   
 - skill: Languages
