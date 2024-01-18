@@ -3,13 +3,14 @@
     <style>
       @font-face { font-family: Fell-Regular; src: url('IMFellEnglish-Regular.ttf'); } 
        body {
-         font-family: Fell-Regular
+           font-family: Fell-Regular;
+	   font-size:18
       }
       #parchment {
   position: absolute;
   display: flex;
-    width: 75%;
-  min-height: calc((1vw + 1vh) * 45);
+  width: 81%;
+  min-height: calc((1vw + 1vh) *2.9* 45);
   /* center page with absolute position */
   top: 0%; left: 50%; transform: translate(-50%, 0);
   margin: 2em 0;
@@ -34,18 +35,79 @@
    <body>
       <center><h1>Artificial Intelligence for Executives</h1>
       <h2>Course Syllabus (Summer 2023)</h2></center>
-<h2>1st Lecture &mdash; The History and Lexicon of Artificial Intelligence</h2>
-<h2>2nd Lecture &mdash; Neural Networks... What is the fuzz all about?</h2>
-<h2>3rd Lecture &mdash; Time Series and Recurrence</h2>
-<h2>4th Lecture &mdash; The Deep Learning Revolution</h2>
-<h2>5th Lecture &mdash; Forget about labels! Unsupervised Machine Learning</h2>
-<h2>6th Lecture &mdash; Prehistoric AI: Bayesian Inference</h2>
-<h2>7th Lecture &mdash; Generative AI</h2>
-<h2>8th Lecture &mdash; What can AI do <em>for you?</em></h2>
-<h2>9th Lecture &mdash; The Future of AI</h2>
-	   
-  <center><p style="margin-bottom:3cm;"><a href="/">Home</a></p></center>
-   </body>
-	   
+      <h2>1st Lecture &mdash; The History and Lexicon of Artificial Intelligence</h2>
+	<ul>
+	<li>From simple transistors to thinking machines: A History of AI.</li>
+	<li><em>Machine Learning? Deep Learning?</em> AI Jargon simplified.</li>
+	<li>What's under the hood: Statistics and Probability Density Functions (PDFs).</li>
+	<li>The essence of AI: an illustration of Machine Learning and overfitting through a simple example.</li>
+	</ul>
+      <h2>2nd Lecture &mdash; Neural Networks... What is the fuzz all about?</h2>
+      <ul>
+	<li>A distant cousin: decision trees.</li>
+	<li><em>Fiat neuronum</em>: The Artificial Neuron.</li>
+	<li><em>Reason</em> through <em>Conectedness</em>: Neural Networks (NN).</li>
+	<li>Learning from the Data: The Training Process.</li>
+	<li>How to evaluate a Classifier: The Receiver Operating Characteristic curve (ROC).</li>
+	<li>Examples and how to try out your first NN.</li>
+      </ul>
+      <h2>3rd Lecture &mdash; Time Series and Recurrence</h2>
+      <ul>
+	<li>Time series and sequential data: A case for <em>Recurrence</em>.</li>
+	<li>Enter Recurrent Neural Networks (RNN).</li>
+	<li>Simple Recurrence and its pitfalls.</li>
+	<li>Long-Short Term Memory (LSTM) cells. Example: trading in the market.</li>
+	<li>Archetipal sequences: words in a language.</li>
+	<li>A first approach into language processing: Word Embeddings.</li>
+      </ul>
+      
+      <h2>4th Lecture &mdash; The Deep Learning Revolution</h2>
+      <ul>
+	<li>Image Processing: where does the information lie?</li>
+	<li>Enter Convolutional Neural Networks (CNN).</li>
+	<li>A filter and how it works.</li>
+	<li>Convolution, Pooling, Striding, etc.</li>
+	<li>Reutilizing first layers: Style transfer, fine tuning.</li>
+	<li>Other examples: Voice processing. How to fool an ML algorithm.</li>
+      </ul>
+      <h2>5th Lecture &mdash; Forget about labels! Unsupervised Machine Learning</h2>
+      <ul>
+	<li>A change of Paradigm: Supervised vs Unsupervised learning.</li>
+	<li>Clustering methods. K-means, Gaussian Mixtures, tSNE.</li>
+	<li>Dimensionality Reduction: Principal Component Analysis (PCA) as an example.</li>
+	<li>Unsupervised NNs? Meet the AutoEncoder.</li>
+	<li>The AutoEncoder as a deep dimensional reduction.</li>
+	<li>AutoEncoder example: Anomaly detection.</li>
+      </ul>
+      <h2>6th Lecture &mdash; Prehistoric AI: Bayesian Inference</h2>
+      <ul>
+	<li><em>Learning from Data</em>: Bayes' Theorem.</li>
+	<li>An academic example: The coin toss.</li>
+	<li>Bayesian Inference. Graphical models. The power of modelling.</li>
+	<li>A more complex variation: Latent Dirichlet Allocation (LDA).</li>
+	<li>LDA and topical models. Unsupervised classification and processing of documents.</li>
+      </ul>
+      <h2>7th Lecture &mdash; Generative AI - Reinforcement Learning</h2>
+      <ul>
+	<li><em>Sampling</em>: the power of randomness.</li>
+	<li>How to Sample with any PDF? Enter Generative AI.</li>
+	<li>Variational AutoEncoder: Bayes meets AutoEncoder. Regularization of the Latent Space.</li>
+	<li>Generative Adversarial Networks. Generator vs Discriminator: an AI arms race.</li>
+	<li>Another swerve in the paradigm: Enter Reinforcement Learning (RL).</li>
+	<li>RL: How humans learn? Training without data. Its pitfalls. Examples.</li>
+      </ul>
+      <h2>8th Lecture &mdash; What can AI do <em>for you?</em></h2>
+      The idea of this lecture is that each student or team of students does a brief presentation involving their own challenged in their respective lines of work. This will motivate a discussion into their own data sources, their challenges and which algorithm or general idea presented in the course could potentially help as a solution. Previous discussion with the teachers allows for more fruitful presentations and discussions to occur. 
+      <h2>9th Lecture &mdash; The Future of AI</h2>
+      <ul>
+	<li>Thinking Machines. The What. The How. The Why.</li>
+	<li>Turing's Test. The Imitation Game. Caveats. Are we there yet?</li>
+	<li>The How. From AI to AGI (Artificial General Intelligence).</li>
+	<li>Large Language Models. Diffusion. Mixture of Experts.</li>
+	<li>The road to AGI. Just stack more layers?</li>
+	<li>The Why. AI Safety. Ethics. Human Learning</li>
+      </ul>
+  <center><p style="margin-bottom:3cm;">If you want more information on the course, <a href="mailto:federico@sogi.com.ar">do not hesitate to write</a><br><br><a href="/">Home</a></p></center>
+   </body>   
    </div>
 </html>
