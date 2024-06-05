@@ -5,24 +5,25 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
-  
-</head>
+  <script type="text/javascript" src="js/buttoncalc.js"></script>
+  <script type="text/javascript" src="js/math.js"></script>
+  </head>
 <body>
 
 
 <header>
 <div class="text-box">
     <h1 id="title">Simulador de Garantía por rinde</h1><hr>
-      <p id="description">Llene los siguientes campos para poder simular una garantía para su campo</p>
+      <p id="description">Complete el formulario para poder simular una garantía para su campo.</p>
   </div>
 </header>
     <div class="container">
-      <form id="survey-form" method="GET">
+      <form id="survey-form" action="" method="POST" >
 
          <div class="labels">
           <label for="dropdown">Cultivo</label></div>
         <div class="input-tab">
-          <select id="dropdown" name="site">
+          <select id="dropdown" name="cultivo" required>
             <option disabled value selected>elija una opción</option>
             <option value="soja">Soja</option>
             <option value="trigo">Trigo</option>
@@ -32,17 +33,17 @@
           </div>
 	
          <div class="labels">
-          <label id="name-label" for="name">Tamaño de lotes</label></div>
+          <label id="lote-label" for="l1">Tamaño de lotes</label></div>
         <div class="input-tab">
           <input class="input-field" type="number" id="lotes" name="lotes" min=0 placeholder="ingrese área [ha]" required autofocus></div>
 
          <div class="labels">
-          <label id="email-label" for="email">Rendimiento esperado</label></div>
+          <label id="r1-label" for="r1">Rendimiento esperado</label></div>
         <div class="input-tab">
           <input class="input-field" type="number" id="rinde_esp" name="rinde_esp" min=0 placeholder="ingrese cantidad [kg]" required></div>
         
          <div class="labels">
-          <label id="number-label" for="number">Rendimiento de indiferencia</label></div>
+          <label id="r2-label" for="r2">Rendimiento de indiferencia</label></div>
         <div class="input-tab">
           <input class="input-field" type="number" id="rinde_ind" name="rinde_ind" min=0 placeholder="ingrese cantidad [kg]" required></div>
 
