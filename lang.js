@@ -14,5 +14,5 @@ if (language === 'en') {
   document.querySelectorAll('.en').forEach(elem => elem.style.display = 'none');
   document.querySelectorAll('.es').forEach(elem => elem.style.display = 'inline');
 }}
-language = 'es';
+language = 'en';
 runlang();
