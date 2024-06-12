@@ -1,0 +1,202 @@
+<html>
+   <head>
+    <style>
+      @font-face { font-family: Fell-Regular; src: url('IMFellEnglish-Regular.ttf'); } 
+       body {
+           font-family: Fell-Regular;
+	   font-size:18
+      }
+      #parchment {
+  position: absolute;
+  display: flex;
+  width: 81%;
+  min-height: calc((1vw + 1vh) *2.9* 45);
+  /* center page with absolute position */
+  top: 0%; left: 50%; transform: translate(-50%, 0);
+  margin: 2em 0;
+    padding: 4em;
+    box-shadow: 2px 3px 20px black, 0 0 60px #8a4d0f inset;
+    background: #fffef0;
+  filter: url(#wavy2);
+}
+      #contain {
+  position: relative;
+ 	display: flex;
+  flex-direction: column;
+	width: 75%;
+  height: auto;
+  margin: 0 auto;
+	padding: 4em;
+}
+    </style>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="lang.js"></script>
+   </head>
+   <div id="parchment"></div>
+   <div id="contain">
+     <body onload="runlang()">
+       <a id="top"></a>
+              <div class='es'>
+     <center><h1>Inteligencia Artificial para Ejecutivos</h1>
+<!--        <img src="sketch_tr.png" alt="Federico Lamagna" style="width:250px;height:auto;"> -->
+       <h2>Temario del curso (Verano 2023)</h2>
+<a href="#" onclick="es()">     <img src="flags/arg_worn_light.png" height="25" width="40"></a> <a href="#" onclick="en()">     <img src="flags/usa_worn_light.png" height="25" width="40"></a> </center>
+     
+       <h2>1ra Clase  &mdash; La Historia y el Léxico en Inteligencia Artificial</h2>
+	<ul>
+	<li>Desde los transistores hasta las máquinas pensantes: Una Historia de IA.</li>
+	<li><em>Machine Learning? Deep Learning?</em> La Jerga simplificada.</li>
+	<li>¿Qué hay debajo del capó?: Estadísticas, y Distribuciones de Probabilidad.</li>
+	<li>La esencia del IA: Machine Learning y su <em>overfitting</em> ilustrado a través de un ejemplo sencillo.</li>
+	</ul>
+      <h2>2da Clase  &mdash; Redes Neuronales... De qué se trata todo el barullo?</h2>
+      <ul>
+	<li>Un primo lejano: árboles de decisión.</li>
+	<li><em>Fiat neuronum</em>: La Neurona Artificial.</li>
+	<li><em>Razón</em> a través de <em>Conexión</em>: Redes Neuronales (NN).</li>
+ 	<li>Aprender de la Data: El Proceso de Entrenamiento.</li>
+	<li>Cómo evaluar un Clasificador: La curva de característica Operativa del Receptor (ROC).</li>
+	<li>Ejemplos, y cómo probar su primera NN.</li>
+      </ul>
+      <h2>3ra Clase &mdash; Series Temporales y Recurrencia</h2>
+      <ul>
+	<li>Series temporales, data secuencial: Un caso para la <em>Recurrencia</em>.</li>
+	<li>Introduciendo Redes Neuronales Recuerrentes (RNN).</li>
+	<li>Recurrencia simple, sus debilidades.</li>
+	<li>Celdas de memoria Long-Short Term (LSTM). Un ejemplo: <em>trading</em> en la bolsa.</li>
+	<li>El arquetipo de secuencia: el lenguaje natural.</li>
+	<li>Un primer vistazo hacia el procesamiento de lenguaje: <em>embedding</em> de palabras.</li>
+      </ul>
+      
+      <h2>4ta Clase  &mdash; La Revolución del <em>Deep Learning</em></h2>
+      <ul>
+	<li>Procesamiento de Imágenes: ¿dónde reside la información?</li>
+	<li>Introduciendo Redes Neuronales Convolucionales (CNN).</li>
+	<li>Un filtro y cómo funciona.</li>
+	<li>Convoluciones, <em>Pooling</em>, <em>Striding</em>, etc.</li>
+	<li>Reutilizando las primeras capas: Transferencia de estilo, <em>fine tuning</em>.</li>
+	<li>Otros ejemplos: Procesamiento de la Voz. Cómo engañar un algoritmo de ML.</li>
+      </ul>
+      <h2>5ta Clase &mdash; Olvídese de las etiquetas! Machine Learning No Supervisado</h2>
+      <ul>
+	<li>El cambio de Paradigma: Aprendizaje Supervisado vs No Supervisado.</li>
+	<li>Métodos de <em>Clustering</em>. K-means, Mezcla de Gaussianas, tSNE.</li>
+	<li>Reducción dimensional: Análisis de Componentes Principales (PCA) como ejemplo.</li>
+	<li>Redes Neuronales No Supervisadas? Conozca al AutoEncoder.</li>
+	<li>El AutoEncoder como una reducción dimensional <em>profunda</em>.</li>
+	<li>Ejemplo de AutoEncoder: Detección de anomalías.</li>
+      </ul>
+      <h2>6ta Clase &mdash; IA Prehistorico: Inferencia Bayesiana</h2>
+      <ul>
+	<li><em>Aprendizaje desde la Data</em>: El Teorema de Bayes.</li>
+	<li>Ejemplo académico: Tirar una moneda.</li>
+	<li>Inferencia Bayesiana. Modelos gráficos. El poder del modelado.</li>
+	<li>Una vuelta más compleja: Alocación de Dirichlet Latente (LDA).</li>
+	<li>LDA y modelos de tópicos. Clasificación no supervisada y el procesamiento de documentos.</li>
+      </ul>
+      <h2>7ma Clase &mdash; AI Generativo - Aprendizaje por Refuerzo</h2>
+      <ul>
+	<li><em>Muestreo</em>: El poder de lo aleatorio.</li>
+	<li>Cómo muestrear con cualquier PDF? Introduciendo IA generativa.</li>
+	<li>El AutoEncoder Variacional: Bayes se junta con AutoEncoder. Regularización del espacio latente.</li>
+	<li>Redes Generativas Adversariales. El Generador y el Discriminador: la carrera armamentística del IA.</li>
+	<li>Otra vuelta en el paradigma: Introduciendo el Aprendizaje por Refuerzo (RL).</li>
+	<li>RL: la manera <em>humana</em> de aprender? Aprender sin data. Sus debilidades. Ejemplos.</li>
+      </ul>
+      <h2>8va Clase &mdash; Qué puede hacer la IA <em>por usted?</em></h2>
+      <p style="text-indent: 25px;"> La idea de esta clase es que cada participante o equipo de alumnos haga una breve presentación de sus propios desafíos en sus respectivas líneas de trabajo. Esto motivará una discusión sobre sus propias fuentes de datos, qué dificultades se encuentran y qué algoritmos o ideas de las introducidas en el curso podrían potencialmente ayudar a encontrar una solución.
+
+Traducción realizada con la versión gratuita del traductor DeepL.com</p>
+      <h2>9na Clase &mdash; El Futuro de la IA</h2>
+      <ul>
+	<li>Máquinas Pensantes. El Qué. El Cómo. El Por Qué.</li>
+	<li>El Test de Turing: El Juego de la Imitación. Sutilezas. Hemos llegado?</li>
+	<li>El Cómo. De la IA hacia la Inteligencia Artificial General (AGI).</li>
+	<li>Modelos de Lenguaje (LLMs). Difusión. Mezcla de Expertos.</li>
+	<li>El camino hacia el AGI. Amontonar más capas?</li>
+	<li>El Por Qué. <em>AI Safety</em> y Ética. <em>Human Learning</em>.</li>
+      </ul>
+      <center><p style="margin-bottom:3cm;">Si busca más información acerca del curso, <a href="mailto:federico@sogi.com.ar">no dude en contactarse</a>.<br><br><a href="/">Inicio</a> &mdash; <a href="#top">Arriba</a></p></center>
+      </div>
+       <div class='en'>
+     <center><h1>Artificial Intelligence for Executives</h1>
+<!--        <img src="sketch_tr.png" alt="Federico Lamagna" style="width:250px;height:auto;"> -->
+       <h2>Course Syllabus (Summer 2023)</h2>
+     <a href="#" onclick="es()">     <img src="flags/arg_worn_light.png" height="25" width="40"></a> <a href="#" onclick="en()">     <img src="flags/usa_worn_light.png" height="25" width="40"></a> </center></center>
+      <h2>1st Lecture &mdash; The History and Lexicon of Artificial Intelligence</h2>
+	<ul>
+	<li>From simple transistors to thinking machines: A History of AI.</li>
+	<li><em>Machine Learning? Deep Learning?</em> AI Jargon simplified.</li>
+	<li>What's under the hood: Statistics and Probability Density Functions (PDFs).</li>
+	<li>The essence of AI: an illustration of Machine Learning and overfitting through a simple example.</li>
+	</ul>
+      <h2>2nd Lecture &mdash; Neural Networks... What is the fuzz all about?</h2>
+      <ul>
+	<li>A distant cousin: decision trees.</li>
+	<li><em>Fiat neuronum</em>: The Artificial Neuron.</li>
+	<li><em>Reason</em> through <em>Connectedness</em>: Neural Networks (NN).</li>
+	<li>Learning from the Data: The Training Process.</li>
+	<li>How to evaluate a Classifier: The Receiver Operating Characteristic curve (ROC).</li>
+	<li>Examples and how to try out your first NN.</li>
+      </ul>
+      <h2>3rd Lecture &mdash; Time Series and Recurrence</h2>
+      <ul>
+	<li>Time series and sequential data: A case for <em>Recurrence</em>.</li>
+	<li>Enter Recurrent Neural Networks (RNN).</li>
+	<li>Simple Recurrence and its pitfalls.</li>
+	<li>Long-Short Term Memory (LSTM) cells. Example: trading in the market.</li>
+	<li>Archetipal sequences: sentences in a language.</li>
+	<li>A first approach into language processing: Word Embeddings.</li>
+      </ul>
+      
+      <h2>4th Lecture &mdash; The Deep Learning Revolution</h2>
+      <ul>
+	<li>Image Processing: where does the information lie?</li>
+	<li>Enter Convolutional Neural Networks (CNN).</li>
+	<li>A filter and how it works.</li>
+	<li>Convolution, Pooling, Striding, etc.</li>
+	<li>Reutilizing first layers: Style transfer, fine tuning.</li>
+	<li>Other examples: Voice processing. How to fool an ML algorithm.</li>
+      </ul>
+      <h2>5th Lecture &mdash; Forget about labels! Unsupervised Machine Learning</h2>
+      <ul>
+	<li>A change of Paradigm: Supervised vs Unsupervised learning.</li>
+	<li>Clustering methods. K-means, Gaussian Mixtures, tSNE.</li>
+	<li>Dimensionality Reduction: Principal Component Analysis (PCA) as an example.</li>
+	<li>Unsupervised NNs? Meet the AutoEncoder.</li>
+	<li>The AutoEncoder as a deep dimensional reduction.</li>
+	<li>AutoEncoder example: Anomaly detection.</li>
+      </ul>
+      <h2>6th Lecture &mdash; Prehistoric AI: Bayesian Inference</h2>
+      <ul>
+	<li><em>Learning from Data</em>: Bayes' Theorem.</li>
+	<li>An academic example: The coin toss.</li>
+	<li>Bayesian Inference. Graphical models. The power of modelling.</li>
+	<li>A more complex variation: Latent Dirichlet Allocation (LDA).</li>
+	<li>LDA and topical models. Unsupervised classification and processing of documents.</li>
+      </ul>
+      <h2>7th Lecture &mdash; Generative AI - Reinforcement Learning</h2>
+      <ul>
+	<li><em>Sampling</em>: the power of randomness.</li>
+	<li>How to Sample with any PDF? Enter Generative AI.</li>
+	<li>Variational AutoEncoder: Bayes meets AutoEncoder. Regularization of the Latent Space.</li>
+	<li>Generative Adversarial Networks. Generator vs Discriminator: an AI arms race.</li>
+	<li>Another swerve in the paradigm: Enter Reinforcement Learning (RL).</li>
+	<li>RL: the way humans learn? Training without data. Its pitfalls. Examples.</li>
+      </ul>
+      <h2>8th Lecture &mdash; What can AI do <em>for you?</em></h2>
+      <p style="text-indent: 25px;"> The idea of this lecture is that each student or team of students does a brief presentation involving their own challenged in their respective lines of work. This will motivate a discussion into their own data sources, their challenges and which algorithm or general idea presented in the course could potentially help as a solution. Previous discussion with the teachers allows for more fruitful presentations to occur.</p>
+      <h2>9th Lecture &mdash; The Future of AI</h2>
+      <ul>
+	<li>Thinking Machines. The What. The How. The Why.</li>
+	<li>Turing's Test: The Imitation Game. Caveats. Are we there yet?</li>
+	<li>The How. From AI to AGI (Artificial General Intelligence).</li>
+	<li>Large Language Models. Diffusion. Mixture of Experts.</li>
+	<li>The road to AGI. Just stack more layers?</li>
+	<li>The Why. AI Safety and Ethics. Human Learning.</li>
+      </ul>
+      <center><p style="margin-bottom:3cm;">If you want more information on the course, <a href="mailto:federico@sogi.com.ar">do not hesitate to write</a>.<br><br><a href="/">Home</a> &mdash; <a href="#top">Top</a></p></center>
+      </div>
+   </body>   
+   </div>
+</html>
