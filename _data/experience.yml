@@ -112,11 +112,11 @@
   linkc: "hoverer"
   summary: '<p>I am part of Switch On Global Technology (SOGi), a consulting firm that brings engineering solutions to cutting edge tech companies, especially in the realms of Aerospace, Robotics, Software & AI, Energy and Telecommunications sectors.</p>
   <ul>  
-  <li>During 2023 and 2024, I assisted Space tech company <a target="_blank" href="https://tlon.space">TLON</a> with their launch vehicle. I was part of a team that assisted on their Guidance, Navigation and Control system (GNC), Flight Termination System (FTS) and in Assembly Integration and Testing (AIT). This work can be seen in action in the <a target="_blank" href="https://www.youtube.com/watch?v=s4ahzA6IwXM">9th flight mission</a> (Sept. 2023), and in a 10th flight mission (TBD, late 2025).</li>
+  <li>During 2023 and 2024, I assisted Space tech company <a target="_blank" href="https://tlon.space">TLON</a> with their launch vehicle. I was part of a team that contributed to the development and optimization of their Guidance, Navigation and Control system (GNC), Flight Termination System (FTS) and in Assembly Integration and Testing (AIT). Our team at SOGi collaborated with TLON teams with expertise in these areas, designed different experiments to test and validate the different mission requirements. The result of this work can be seen in action in the <a target="_blank" href="https://www.youtube.com/watch?v=s4ahzA6IwXM">9th flight mission</a> (Sept. 2023), and in a 10th flight mission (TBD, late 2025).</li>
   </ul>
-  <p><div><img src="images/tlonspace_c.jpg" width="34%"/> 
-<img src="images/starry.png" width="60%"/> </div></p>
-<p><blockquote><em>This is the gullibility of modern man, which coexists with a lack of faith. He believes what he reads in the newspaper but not what is written in the stars.</em></blockquote></p>
+  <p><div><img src="images/tlonspace_c.jpg" width="34%" alt="Federico Lamagna standing in front of the Aventura I, in TLON's 9th flight mission"/> 
+<img src="images/starry.png" width="60%" alt="Starry Night Sky in a forest's edge, representing the reach of our dreams."/> </div></p>
+<p><blockquote><em> &mdash; This is the gullibility of modern man, which coexists with a lack of faith. He believes what he reads in the newspaper but not what is written in the stars.</em></blockquote></p>
  <hr style="width:35%"> 
  <p> SOGi is involved with several other interesting projects, feel free to explore <a target="_blank" href="https://www.sogi.com.ar/">our website</a>, and reach out for more!'
 #<p> — Jünger</p>'
@@ -147,4 +147,4 @@
   link2: https://www.tecnologisticaconsultores.com/
   links: 64
   linkc: "hoverer"
-  summary: '<p>As a cutting-edge AI Engineer within a specialized R&D division, my role involves designing, developing, and deploying advanced AI agentic systems and other machine learning solutions to revolutionize logistics operations and data interaction for enterprise clients.</p>'
+  summary: '<p>As a cutting-edge AI Engineer within a specialized R&D division, my role involves designing, developing, and deploying advanced AI agentic systems and machine learning solutions to revolutionize logistics operations and data interaction for enterprise clients.</p>'
