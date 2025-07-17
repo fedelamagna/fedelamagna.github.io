@@ -15,7 +15,7 @@
       <li>Large Language Models (LLMs) & Generative AI: GPT, Gemini, fine-tuning, prompt engineering</li>
       <li>AI Agents & Agentic Systems: Multi-agent architectures, OpenAI Agents SDK, tool use, LLM orchestration</li>
       <li>Natural Language Processing (NLP): Text-to-SQL, topic modeling, text extraction, sentiment analysis</li>
-      <li>Computer Vision: Multimodal LLMs for document processing, OCR, image analysis (e.g., satellite imagery)</li>
+      <li>Computer Vision: Multimodal LLMs for document processing, OCR, image analysis</li>
       <li>Machine Learning Algorithms: Deep Learning, Probabilistic Modeling, Bayesian Inference, Clustering, Supervised/Unsupervised Learning</li>
     </ul>
 
@@ -24,10 +24,10 @@
   description: |
     <ul class="resume-item-list">
       <li>Data Acquisition & Preprocessing (structured/unstructured data)</li>
-      <li>Statistical Analysis & Modeling</li>
+      <li>Statistical Analysis & Modelling</li>
       <li>Data Visualization & Geovisualization (Choropleth maps, H3 hexagonal indexing)</li>
       <li>SQL & Database Interaction</li>
-      <li>A/B Testing & Experiment Design (for model validation and benchmarking)</li>
+      <li>Testing & experiment design, model validation and benchmarking</li>
     </ul>
 
 # Software Development & Infrastructure
@@ -46,10 +46,10 @@
   description: |
     <ul class="resume-item-list">
       <li>Advanced Mathematics & Applied Physics (PhD-level)</li>
-      <li>Quantum Field Theory, Statistical Mechanics, High Energy Physics</li>
-      <li>LaTeX & Scientific Documentation</li>
-      <li>Wolfram Mathematica & Symbolic Computation</li>
-      <li>Scientific Research & Problem Solving</li>
+      <li>Quantum Field Theory, Statistical Mechanics, High-Energy Physics</li>
+      <li>LaTeX & Scientific documentation</li>
+      <li>Wolfram Mathematica & symbolic computation</li>
+      <li>Scientific Research, problem solving</li>
     </ul>
 
 # Professional & Consulting Skills
@@ -60,7 +60,7 @@
       <li>R&D Leadership & Innovation Management</li>
       <li>Startup Development & Product Strategy (CTO & Co-founder experience)</li>
       <li>Cross-Functional Collaboration & Team Leadership</li>
-      <li>Mentoring & Technical Training (Teaching experience)</li>
+      <li>Teaching experience</li>
       <li>Agile Methodologies & Project Management</li>
     </ul>
 
