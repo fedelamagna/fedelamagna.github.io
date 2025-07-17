@@ -138,11 +138,11 @@
   links: 64
   linkc: "hoverer"
   summary: |
-      Yieldy is an innovative AgriTech startup founded to revolutionize crop insurance and bring financial security to farmers worldwide. 
+      <p>Yieldy is an innovative AgriTech startup founded to revolutionize crop insurance and bring financial security to farmers worldwide. 
       As CTO, I am leading the development of our core technological platform, which leverages advanced Machine Learning models, satellite imagery,
       and weather data to accurately predict crop yields and inform risk assessment. Our vision is to pioneer a novel yield-based guarantee,
       enabling farmers to mitigate risk and focus on sustainable growth. We are currently engaging with strategic reinsurance partners to launch a pilot program
-      for this transformative solution.
+      for this transformative solution.</p>
   #Yieldy is a project that aims to bring financial security to farmers worldwide. By developing a yield-based guarantee, we allow farmers to focus on what is important to them, while Yieldy helps bring down their risks.
 
 - company: <a target="_blank" href="https://www.tecnologisticaconsultores.com/">Tecnologística</a>
