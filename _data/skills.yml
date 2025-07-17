@@ -1,30 +1,74 @@
 # Skills
+# Programming Languages
 - skill: Programming Languages
-  description: '<ul class="resume-item-list">
-  <li>Python</li>
-  <li>C/C++</li>
-  <li>Javascript 
-  </ul>'
+  description: |
+    <ul class="resume-item-list">
+      <li>Python (Advanced)</li>
+      <li>C/C++ (Intermediate)</li>
+      <li>JavaScript (Foundation, for web integration)</li>
+    </ul>
 
-- skill: Other software and tools
-  description: '<ul class="resume-item-list">
-  <li>LaTeX</li>
-  <li>Wolfram Mathematica</li>
-  <li>Web Development (React, Flask) 
-  </ul>'
-  
+# AI & Machine Learning
+- skill: AI & Machine Learning Expertise
+  description: |
+    <ul class="resume-item-list">
+      <li>**Large Language Models (LLMs)** & Generative AI: GPT, Gemini, fine-tuning, prompt engineering</li>
+      <li>**AI Agents** & Agentic Systems: Multi-agent architectures, OpenAI Agents SDK, tool use, LLM orchestration</li>
+      <li>**Natural Language Processing (NLP)**: Text-to-SQL, topic modeling, text extraction, sentiment analysis</li>
+      <li>**Computer Vision**: Multimodal LLMs for document processing, OCR, image analysis (e.g., satellite imagery)</li>
+      <li>**Machine Learning Algorithms**: Deep Learning, Probabilistic Modeling, Bayesian Inference, Clustering, Supervised/Unsupervised Learning</li>
+    </ul>
+
+# Data Science & Analytics
+- skill: Data Science & Analytics
+  description: |
+    <ul class="resume-item-list">
+      <li>Data Acquisition & Preprocessing (structured/unstructured data)</li>
+      <li>Statistical Analysis & Modeling</li>
+      <li>Data Visualization & Geovisualization (Choropleth maps, H3 hexagonal indexing)</li>
+      <li>SQL & Database Interaction</li>
+      <li>A/B Testing & Experiment Design (for model validation and benchmarking)</li>
+    </ul>
+
+# Software Development & Infrastructure
+- skill: Software Development & Infrastructure
+  description: |
+    <ul class="resume-item-list">
+      <li>Microservices Architecture (Flask, RESTful APIs)</li>
+      <li>Containerization (Docker) & Deployment</li>
+      <li>Web Development (Front-end/Back-end principles, JavaScript integration)</li>
+      <li>Version Control (Git & GitHub)</li>
+      <li>Bash Scripting</li>
+    </ul>
+
+# Scientific Computing & Research
+- skill: Scientific Computing & Research
+  description: |
+    <ul class="resume-item-list">
+      <li>Advanced Mathematics & Applied Physics (PhD-level)</li>
+      <li>Quantum Field Theory, Statistical Mechanics, High Energy Physics</li>
+      <li>LaTeX & Scientific Documentation</li>
+      <li>Wolfram Mathematica & Symbolic Computation</li>
+      <li>Scientific Research & Problem Solving</li>
+    </ul>
+
+# Professional & Consulting Skills
+- skill: Professional & Consulting Skills
+  description: |
+    <ul class="resume-item-list">
+      <li>Technical Consulting & Strategic Advisory</li>
+      <li>R&D Leadership & Innovation Management</li>
+      <li>Startup Development & Product Strategy (CTO & Co-founder experience)</li>
+      <li>Cross-Functional Collaboration & Team Leadership</li>
+      <li>Mentoring & Technical Training (Teaching experience)</li>
+      <li>Agile Methodologies & Project Management</li>
+    </ul>
+
+# Languages
 - skill: Languages
-  description: '<ul class="resume-item-list">
-  <li>Spanish (Native)</li>
-  <li>English (Proficient)</li>
-  <li>Italian (Elementary)</li>
-  </ul>'
-
-# Digital content development and creation
-- skill: Areas of Interest
-  description: '<ul class="resume-item-list">
-  <li>Data Science, Data Acquisition and Analysis</li>
-  <li>Machine Learning, Natural Language Processing, Geovisualization, Image Recognition</li>
-  <li>Probabilistic Modelling</li>
-  <li>Applied Mathematics</li>
-  </ul>'
+  description: |
+    <ul class="resume-item-list">
+      <li>Spanish (Native)</li>
+      <li>English (Proficient)</li>
+      <li>Italian (Elementary)</li>
+    </ul>
