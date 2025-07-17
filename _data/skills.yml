@@ -12,8 +12,8 @@
 - skill: AI & Machine Learning Expertise
   description: |
     <ul class="resume-item-list">
-      <li>Large Language Models (LLMs) & Generative AI: GPT, Gemini, fine-tuning, prompt engineering</li>
-      <li>AI Agents & Agentic Systems: Multi-agent architectures, OpenAI Agents SDK, tool use, LLM orchestration</li>
+      <li>Large Language Models (LLMs) & Generative AI: Prompt & context engineering</li>
+      <li>AI Agents & Agentic Systems: Multi-agent architectures, tool use and LLM orchestration</li>
       <li>Natural Language Processing (NLP): Text-to-SQL, topic modeling, text extraction, sentiment analysis</li>
       <li>Computer Vision: Multimodal LLMs for document processing, OCR, image analysis</li>
       <li>Machine Learning Algorithms: Deep Learning, Probabilistic Modeling, Bayesian Inference, Clustering, Supervised/Unsupervised Learning</li>
@@ -60,8 +60,8 @@
       <li>R&D Leadership & Innovation Management</li>
       <li>Startup Development & Product Strategy (CTO & Co-founder experience)</li>
       <li>Cross-Functional Collaboration & Team Leadership</li>
-      <li>Teaching experience</li>
       <li>Agile Methodologies & Project Management</li>
+      <li>Teaching experience</li>
     </ul>
 
 # Languages
