@@ -3,13 +3,14 @@
   description: '<ul class="resume-item-list">
   <li>Python</li>
   <li>C/C++</li>
+  <li>Javascript 
   </ul>'
 
 - skill: Other software and tools
   description: '<ul class="resume-item-list">
   <li>LaTeX</li>
   <li>Wolfram Mathematica</li>
-  <li>Web Development - HTML/CSS/PHP
+  <li>Web Development (React, Flask) 
   </ul>'
   
 - skill: Languages
