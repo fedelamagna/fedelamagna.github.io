@@ -12,11 +12,11 @@
 - skill: AI & Machine Learning Expertise
   description: |
     <ul class="resume-item-list">
-      <li>**Large Language Models (LLMs)** & Generative AI: GPT, Gemini, fine-tuning, prompt engineering</li>
-      <li>**AI Agents** & Agentic Systems: Multi-agent architectures, OpenAI Agents SDK, tool use, LLM orchestration</li>
-      <li>**Natural Language Processing (NLP)**: Text-to-SQL, topic modeling, text extraction, sentiment analysis</li>
-      <li>**Computer Vision**: Multimodal LLMs for document processing, OCR, image analysis (e.g., satellite imagery)</li>
-      <li>**Machine Learning Algorithms**: Deep Learning, Probabilistic Modeling, Bayesian Inference, Clustering, Supervised/Unsupervised Learning</li>
+      <li>Large Language Models (LLMs) & Generative AI: GPT, Gemini, fine-tuning, prompt engineering</li>
+      <li>AI Agents & Agentic Systems: Multi-agent architectures, OpenAI Agents SDK, tool use, LLM orchestration</li>
+      <li>Natural Language Processing (NLP): Text-to-SQL, topic modeling, text extraction, sentiment analysis</li>
+      <li>Computer Vision: Multimodal LLMs for document processing, OCR, image analysis (e.g., satellite imagery)</li>
+      <li>Machine Learning Algorithms: Deep Learning, Probabilistic Modeling, Bayesian Inference, Clustering, Supervised/Unsupervised Learning</li>
     </ul>
 
 # Data Science & Analytics
